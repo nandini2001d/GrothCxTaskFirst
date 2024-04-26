@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+@media screen and (max-width: 990px) {
+  .main-container .main-col .main-card {
+    width: 100%;
+    margin-left: 20%;
+  }
+}
